@@ -1,0 +1,162 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* GraphViewTest */ = {
+		activeExec = 0;
+		executables = (
+			8AB776A812F46889009C7963 /* GraphViewTest */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* GraphViewTestViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 620}}";
+			sepNavSelRange = "{325, 0}";
+			sepNavVisRange = "{0, 325}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* GraphViewTestViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1070}}";
+			sepNavSelRange = "{246, 0}";
+			sepNavVisRange = "{0, 823}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8AB776A812F46889009C7963 /* GraphViewTest */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GraphViewTest */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* GraphViewTest */,
+		);
+		codeSenseManager = 8AB776B812F46890009C7963 /* Code sense */;
+		executables = (
+			8AB776A812F46889009C7963 /* GraphViewTest */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					534,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318007489;
+			PBXWorkspaceStateSaveDate = 318007489;
+		};
+		perUserProjectItems = {
+			8AB776F212F46B3B009C7963 /* PBXTextBookmark */ = 8AB776F212F46B3B009C7963 /* PBXTextBookmark */;
+			8AB7773512F46E9E009C7963 /* PBXTextBookmark */ = 8AB7773512F46E9E009C7963 /* PBXTextBookmark */;
+			8AB7773612F46E9E009C7963 /* PBXTextBookmark */ = 8AB7773612F46E9E009C7963 /* PBXTextBookmark */;
+			8AB7773712F46E9E009C7963 /* PBXTextBookmark */ = 8AB7773712F46E9E009C7963 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8AB776B712F46890009C7963 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8AB776A812F46889009C7963 /* GraphViewTest */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GraphViewTest;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8AB776B712F46890009C7963 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8AB776B812F46890009C7963 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8AB776C712F468CB009C7963 /* S7GraphView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {803, 1885}}";
+			sepNavSelRange = "{4027, 70}";
+			sepNavVisRange = "{3, 1892}";
+		};
+	};
+	8AB776F212F46B3B009C7963 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* GraphViewTestViewController.h */;
+		name = "GraphViewTestViewController.h: 21";
+		rLen = 0;
+		rLoc = 325;
+		rType = 0;
+		vrLen = 325;
+		vrLoc = 0;
+	};
+	8AB7773512F46E9E009C7963 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GraphViewTestViewController.m */;
+		name = "GraphViewTestViewController.m: 16";
+		rLen = 0;
+		rLoc = 246;
+		rType = 0;
+		vrLen = 823;
+		vrLoc = 0;
+	};
+	8AB7773612F46E9E009C7963 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8AB776C712F468CB009C7963 /* S7GraphView.h */;
+		name = "S7GraphView.h: 124";
+		rLen = 70;
+		rLoc = 4027;
+		rType = 0;
+		vrLen = 1038;
+		vrLoc = 3368;
+	};
+	8AB7773712F46E9E009C7963 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8AB776C712F468CB009C7963 /* S7GraphView.h */;
+		name = "S7GraphView.h: 124";
+		rLen = 70;
+		rLoc = 4027;
+		rType = 0;
+		vrLen = 1892;
+		vrLoc = 3;
+	};
+}
